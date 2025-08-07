@@ -1,0 +1,17 @@
+name: img
+description: "img as in Image"
+version: 0.0.1
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  cached_network_image: ^3.4.1
+  flutter:
+    sdk: flutter
+  flutter_cache_manager: ^3.4.1
+  flutter_svg: ^2.0.16
+  vector_graphics: ^1.1.15
+
+dev_dependencies:
+  very_good_analysis: ^7.0.0
