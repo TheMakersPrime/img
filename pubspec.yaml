@@ -1,6 +1,6 @@
 name: img
 description: "img as in Image"
-version: 0.0.1
+version: 0.0.2
 
 environment:
   sdk: ">=3.8.0 <4.0.0"
@@ -11,6 +11,7 @@ dependencies:
     sdk: flutter
   flutter_cache_manager: ^3.4.1
   flutter_svg: ^2.0.16
+  lottie: ^3.3.1
   vector_graphics: ^1.1.15
 
 dev_dependencies:
