@@ -1,4 +1,4 @@
-// Copyright (c) 2025 <org_name> Authors. All rights reserved.
+// Copyright (c) 2025 TheMakersPrime Authors. All rights reserved.
 
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
